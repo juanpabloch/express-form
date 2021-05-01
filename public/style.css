@@ -264,4 +264,9 @@ footer{
     .volver{
         text-align: center;
     }
+    
+    footer{
+        letter-spacing: 1px;
+        flex-direction: column;
+    }
 }
